@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lalit-fero
+- 👋 Hi, I’m lalit Vavdara
 - 👀 I’m interested in Python, Django. DRF, JS
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Open Source Projects
